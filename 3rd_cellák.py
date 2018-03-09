@@ -4,6 +4,11 @@ A harmadik...
 
 A 2nd_ablak1.py alapján készül. Egy 4x4-es grid létrehozása a feladvány,
 némi dekorációval, a rács elemei Button ojjektumok.
+A grid() sticky paramétere adja meg, hogy melyik oldalon ragadjon a cella oldala,
+ha változik a cellát tartalmazó widget mérete. (N=North, S=South, W=West, E=East -
+amennyiben két szemben lévő oldalt egyszerre állítok be, akkor abban az irányban
+a konténer méretének változásakor a widget mérete is változik, NS esetében a függőleges,
+WE esetében a vízszintes, NSWE esetében minden irányban)
 """
 
 
@@ -25,7 +30,7 @@ class MyApplication(tk.Frame):
                 self.columnconfigure(i, weight=1)
                 self.rowconfigure(j, weight=1)
                 widget = tk.Button(self,text="{}x{}".format(i,j))
-                widget.grid(column=i, row=j, sticky="NWSE", padx=4, pady=4)
+                widget.grid(column=i, row=j, sticky="WE", padx=4, pady=4)
 
 
 def app_start():
