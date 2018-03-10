@@ -1,6 +1,7 @@
 # tkinter-tutorial
 
 *Mottó: „Aki tudja csinálja, aki nem tudja tanítja. Aki tanítani sem tudja, az igazgatja.” :)
+
 (nekem egyik sem megy :D)*
 
 
