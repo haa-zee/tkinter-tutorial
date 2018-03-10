@@ -1,7 +1,7 @@
 # tkinter-tutorial
 
-Mottó: „Aki tudja csinálja, aki nem tudja tanítja. Aki tanítani sem tudja, az igazgatja.” :)
-(nekem egyik sem megy :D)
+*Mottó: „Aki tudja csinálja, aki nem tudja tanítja. Aki tanítani sem tudja, az igazgatja.” :)
+(nekem egyik sem megy :D)*
 
 
 ## Python3 alapú tkinter forráskódok, különböző tutorialokból, illetve azok alapján.
