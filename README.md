@@ -4,8 +4,7 @@
 (nekem egyik sem megy :D)*
 
 
-## Python3 alapú tkinter forráskódok, különböző tutorialokból, illetve azok alapján.
-
+## Python3 alapú tkinter forráskódok, különböző tutorialokból, illetve azok alapján.<br />
 Nomeg némi leírás hozzájuk.
 
 
