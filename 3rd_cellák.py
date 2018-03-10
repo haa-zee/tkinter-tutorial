@@ -29,7 +29,7 @@ class MyApplication(tk.Frame):
             for j in range(0, 4):
                 self.columnconfigure(i, weight=1)
                 self.rowconfigure(j, weight=1)
-                widget = tk.Button(self,text="{}x{}".format(i,j))
+                widget = tk.Button(self, text="{}x{}".format(i,j))
                 widget.grid(column=i, row=j, sticky="WE", padx=4, pady=4)
 
 
