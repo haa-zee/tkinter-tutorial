@@ -4,7 +4,7 @@ Mottó: „Aki tudja csinálja, aki nem tudja tanítja. Aki tanítani sem tudja,
 (nekem egyik sem megy :D)
 
 
-Python3 alapú tkinter forráskódok, különböző tutorialokból, illetve azok alapján.
+##Python3 alapú tkinter forráskódok, különböző tutorialokból, illetve azok alapján.
 Nomeg némi leírás hozzájuk.
 
 
