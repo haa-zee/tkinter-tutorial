@@ -2,7 +2,7 @@
 """
 A harmadik...
 
-A 2nd_ablak1.py alapján készül. Egy 4x4-es grid létrehozása a feladvány,
+A 2nd_window1.py alapján készül. Egy 4x4-es grid létrehozása a feladvány,
 némi dekorációval, a rács elemei Button ojjektumok.
 A grid() sticky paramétere adja meg, hogy melyik oldalon ragadjon a cella oldala,
 ha változik a cellát tartalmazó widget mérete. (N=North, S=South, W=West, E=East -
